@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+My name is Arif
 Here are some ideas to get you started:
 
 - 🎓 I’m currently studying on ... State Polytechnic of Jember
