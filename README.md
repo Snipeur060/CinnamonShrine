@@ -1,6 +1,6 @@
 ### Hello there 👋
+### My name is Muhammad Arif Billah
 
-My name is Muhammad Arif Billah
 Here are some ideas to get you started:
 
 - 🎓 I’m currently studying on ... State Polytechnic of Jember
