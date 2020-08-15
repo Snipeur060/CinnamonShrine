@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Arif
+My name is Muhammad Arif Billah
 Here are some ideas to get you started:
 
 - 🎓 I’m currently studying on ... State Polytechnic of Jember
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 My Skills:
 
-- Web Development : 60 / 100
+- Web Development : 0 / 100
 - Network         : 90 / 100
 - Server Admin    : 85 / 100
