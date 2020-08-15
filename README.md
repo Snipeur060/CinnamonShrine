@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 My Skills:
 
-- Web Development : 0 / 100
+- Web Development : 70 / 100
 - Network         : 90 / 100
 - Server Admin    : 85 / 100
