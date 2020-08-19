@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I'm a weeb :v
 
 My Skills:
+
 - Web Development : 70 / 100
 - Network         : 90 / 100
 - Server Admin    : 85 / 100
