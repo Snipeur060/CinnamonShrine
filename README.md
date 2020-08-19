@@ -1,5 +1,4 @@
-### Hello
-### My name is Muhammad Arif Billah
+### Hello! My name is Muhammad Arif Billah
 
 Here are some ideas to get you started:
 
