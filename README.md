@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Anything you like ;)
 - ⚡ Fun fact: ... I'm a weeb ;v
 
+### My Github Stats
 [![CinnamonShrine's github stats](https://github-readme-stats.vercel.app/api?username=CinnamonShrine&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CinnamonShrine&theme=react&layout=compact)](https://github.com/KeepSOBP?tab=repositories)
