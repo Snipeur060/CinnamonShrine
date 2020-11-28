@@ -8,18 +8,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Anything you like ;)
 - ⚡ Fun fact: ... I'm a weeb ;v
 
-### 💻 Language and Tools
+## 💻 Language and Tools
 - Visual Studio, Visual Studio Code, NetBeans
 - Java, C#, HTML, CSS, JavaScript, PHP
 - Windows Terminal, WSL2 (Ubuntu), Git
 - XAMPP, MySQL, VirtualBox
 - Windows 10, Ubuntu Server
 
-### 📊 My Github Stats
-[![CinnamonShrine's github stats](https://github-readme-stats.vercel.app/api?username=CinnamonShrine&theme=react)](https://github.com/CinnamonShrine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CinnamonShrine&theme=react&layout=compact)](https://github.com/CinnamonShrine)
+## 📊 My Github Stats
+[![CinnamonShrine's github stats](https://github-readme-stats.vercel.app/api?username=CinnamonShrine&theme=default&show_icons=true&hide_border=true)](https://github.com/CinnamonShrine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CinnamonShrine&layout=compact&hide_border=true)](https://github.com/CinnamonShrine)
 
-### 🌐 Contacts
+## 🌐 Contacts
 [![Linkedin](https://img.shields.io/badge/Linkedin-Muhammad%20Arif%20Billah-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arif-billah-a11911117/)
 [![Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Arif%20Billah-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/CinnamonShrine/)
 [![Instagram](https://img.shields.io/badge/Instagram-Muhammad%20Arif%20Billah-lightgrey?style=for-the-badge&logo=instagram)](https://www.instagram.com/m.arifbillah07/)
