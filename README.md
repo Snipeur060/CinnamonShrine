@@ -5,12 +5,13 @@ Here are some ideas to get you started:
 - 🎓 I'm currently studying on ... State Polytechnic of Jember
 - 💻 Study program ... D3 Informatics Management
 - 🌱 I’m currently learning ... Anything about IT
-- 😄 Nickname: ... Anything you like ;)
-- ⚡ Fun fact: ... I'm a weeb ;v
+- 😄 Nickname: ... Arif, Billah, CShrine
+- ⚡ Fun fact: ... I'm a weeb ~(-v-)~
 
 ## 💻 Language and Tools
-- Visual Studio, Visual Studio Code, NetBeans
+- Visual Studio Code, NetBeans
 - Java, C#, HTML, CSS, JavaScript, PHP
+- Nodejs, Mono
 - Windows Terminal, WSL2 (Ubuntu), Git
 - XAMPP, MySQL, VirtualBox
 - Windows 10, Ubuntu Server
