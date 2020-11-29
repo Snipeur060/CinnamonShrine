@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## 💻 Language and Tools
 - Visual Studio Code, NetBeans
 - Java, C#, HTML, CSS, JavaScript, PHP
-- Nodejs, Mono
+- Nodejs, .NET SDK, JDK
 - Windows Terminal, WSL2 (Ubuntu), Git
 - XAMPP, MySQL, VirtualBox
 - Windows 10, Ubuntu Server
