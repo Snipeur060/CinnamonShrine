@@ -5,10 +5,11 @@ Here are some ideas to get you started:
 - 🎓 I'm currently studying on ... State Polytechnic of Jember
 - 💻 Study program ... D3 Informatics Management
 - 🌱 I’m currently learning ... Anything about IT
-- 😄 Nickname: ... Whatever you like 
+- 😄 Nickname: ... Whatever you like
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
 
 ## 💻 Language and Tools
+
 - Visual Studio Code, NetBeans
 - Java, HTML, CSS, JavaScript, PHP
 - Nodejs, JDK
@@ -17,10 +18,12 @@ Here are some ideas to get you started:
 - Windows 10, Ubuntu Server
 
 ## 📊 My Github Stats
-[![CinnamonShrine's github stats](https://github-readme-stats.vercel.app/api?username=CinnamonShrine&theme=default&show_icons=true&hide_border=true)](https://github.com/CinnamonShrine)
+
+[![CinnamonShrine's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cinnamonshrine&theme=default&show_icons=true&hide_border=true)](https://github.com/CinnamonShrine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CinnamonShrine&layout=compact&hide_border=true)](https://github.com/CinnamonShrine)
 
 ## 🌐 Social Media
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-Muhammad%20Arif%20Billah-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arif-billah-a11911117/)
 [![Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Arif%20Billah-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/CinnamonShrine/)
 [![Instagram](https://img.shields.io/badge/Instagram-@m.arifbillah07-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/m.arifbillah07/)
