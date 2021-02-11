@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - XAMPP, MySQL, VirtualBox
 - Windows 10, Ubuntu Server
 
+## 🎮 I'm playing
+
+- osu!
+- Sound Voltex
+- Arcaea
+- Arknights
+
 ## 📊 My Github Stats
 
 [![CinnamonShrine's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cinnamonshrine&theme=default&show_icons=true&hide_border=true)](https://github.com/CinnamonShrine)
