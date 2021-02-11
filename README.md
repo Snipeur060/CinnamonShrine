@@ -1,4 +1,8 @@
-# Hello there! I'm Muhammad Arif Billah (๑・ω・๑)/~
+<p align="center">
+  <a href="https://cinnamonshrine.github.io"><img src="Banner.png" alt="CinnamonShrine Banner"></a>
+</p>
+
+# こんにちは (๑・ω・๑)/~
 
 Here are some ideas to get you started:
 
