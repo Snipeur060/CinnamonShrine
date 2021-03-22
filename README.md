@@ -22,10 +22,14 @@ Here are some ideas to get you started:
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
 ### Tools
-- Visual Studio Code, NetBeans
-- Windows Terminal, WSL2 (Ubuntu), Git
-- XAMPP, MySQL, VirtualBox
-- Windows 10, Ubuntu Server
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com)
+[![sublimetxt](https://img.shields.io/badge/SublimeText-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+[![netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white)](https://netbeans.apache.org/)
+[![xampp](https://img.shields.io/badge/xampp-grey?style=for-the-badge&logo=xampp&logoColor=FB7A24)](https://www.apachefriends.org)
+[![vbox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+[![winterminal](https://img.shields.io/badge/windowsterminal-4d4d4d?style=for-the-badge&logo=Windows-Terminal&logoColor=white)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
+[![wsl2](https://img.shields.io/badge/WSL2-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ## 📊 My Github Stats
 
