@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
 ### Tools
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![windows](https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com)
 [![sublimetxt](https://img.shields.io/badge/SublimeText-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
 [![netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white)](https://netbeans.apache.org/)
