@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 [![vbox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![winterminal](https://img.shields.io/badge/windowsterminal-4d4d4d?style=for-the-badge&logo=Windows-Terminal&logoColor=white)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
-[![wsl2](https://img.shields.io/badge/WSL2-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ## 📊 My Github Stats
 
