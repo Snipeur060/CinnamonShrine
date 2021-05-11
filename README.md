@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Nickname: ... Whatever you like
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
 
-## 💻 Language and Tools
+## 💻 Use and Learn
 ### Languanges
 > [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 > [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
