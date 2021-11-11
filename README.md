@@ -1,15 +1,15 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://cinnamonshrine.github.io"><img src="Banner.png" alt="CinnamonShrine Banner"></a>
-</p>
+</p> -->
 
 # こんにちは (๑・ω・๑)/~
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="125px" src="https://i.pinimg.com/originals/64/92/d0/6492d008d9a86d202053a3858860b890.gif" />
 
 - 🎓 I'm currently studying on ... State Polytechnic of Jember
 - 💻 Study program ... D3 Informatics Management
 - 🌱 I’m currently learning ... Anything about IT
-- 😄 Nickname: ... Whatever you like
+- 😄 Nickname: ... Arif
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
 
 ## 💻 Use and Learn
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### Tools
 > [![windows](https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-> [![sublimetxt](https://img.shields.io/badge/SublimeText-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+> [![sublimetxt](https://img.shields.io/badge/Sublime%Text-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
 > [![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)](https://laragon.org/)
-> [![githubdesktop](https://img.shields.io/badge/GithubDesktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
+> [![githubdesktop](https://img.shields.io/badge/Github%Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 
 ## 📊 My Github Stats
 
