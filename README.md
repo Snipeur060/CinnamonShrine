@@ -26,9 +26,9 @@
 
 ### Tools
 > [![windows](https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-> [![sublimetxt](https://img.shields.io/badge/Sublime%Text-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+> [![sublimetxt](https://img.shields.io/badge/Sublime_Text-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
 > [![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)](https://laragon.org/)
-> [![githubdesktop](https://img.shields.io/badge/Github%Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
+> [![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 
 ## 📊 My Github Stats
 
