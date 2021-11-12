@@ -43,6 +43,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@m.arifbillah07-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/m.arifbillah07/)
 [![Twitter](https://img.shields.io/badge/Twitter-@CinnamonShrine-00acee?style=for-the-badge&logo=twitter)](https://twitter.com/CinnamonShrine)
 
-## 🎮 Discord Profile
 [![Discord](https://discord.c99.nl/widget/theme-2/385033839866544138.png)](http://discord.com/users/385033839866544138)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muhammad_arif_billah&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=muhammad_arif_billah&redirect=true)
