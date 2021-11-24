@@ -31,13 +31,10 @@
 > [![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 > [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
-## 📊 My Github & Wakatime Stats
+## 📊 My Github Stats
 
 [![CinnamonShrine's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cinnamonshrine&theme=default&show_icons=true&hide_border=true)](https://github.com/CinnamonShrine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CinnamonShrine&layout=compact&hide_border=true)](https://github.com/CinnamonShrine)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🌐 Social Media
 
